@@ -1,0 +1,38 @@
+
+.navbar {
+    background-color: rgb(1, 15, 54);
+    color: azure;
+}
+.navbar * {
+  color: rgb(1, 15, 54);
+}
+
+#blanco{
+  color: azure;
+}
+
+#blanco:hover{
+  color: rgb(81, 214, 255);
+}
+
+#azul{
+  color: rgb(2, 16, 63);
+}
+
+.modal-content {
+  background-color: rgb(2, 20, 58);
+}
+#azul-two{
+  color: rgb(249, 250, 253);
+  background-color: rgb(42, 2, 58);
+}
+
+#azul-three{
+  color: rgb(249, 250, 253);
+  background-color: rgb(2, 1, 34);
+  border: rgb(5, 169, 206) 2px solid;
+}
+
+#blanco-two{
+  color: azure;
+}
